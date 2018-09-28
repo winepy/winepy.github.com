@@ -14,3 +14,13 @@
 [android2](/android/android2.md):hashMap 与 hashTable的区别和联系
 
 [android3](/android/android3.md):fail-fast 与 fail-safe
+
+[android4](/android/android4.md):ArrayList，LinkList，Vector区别与联系
+
+[android5](/android/android5.md):Java反射机制，Java代理模式
+
+[android6](/android/android6.md):Java泛型
+
+[android7](/android/android7.md):Synchronized原理
+
+[android8](/android/android8.md):Volatile实现原理
