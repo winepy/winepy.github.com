@@ -28,7 +28,7 @@ fail-fast会在以下两种情况下抛出ConcurrentModificationException
 
 。下面看看ArrayList迭代器部分的源码
 
-```
+```java
 private class Itr implements Iterator<E> {  
         int cursor;  
         int lastRet = -1;  
@@ -76,7 +76,7 @@ fail-safe机制有两个问题
 
 5. fail-fast 和 fail-safe的例子
 
-```
+```java
 import java.util.HashMap;  
 import java.util.Iterator;  
 import java.util.Map;  
@@ -117,7 +117,7 @@ Exception in thread "main" java.util.ConcurrentModificationException
 ```
 
 
-```
+```java
 
 import java.util.concurrent.ConcurrentHashMap;  
 import java.util.Iterator;  
