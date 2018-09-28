@@ -2,6 +2,8 @@
 
 创建自己的博客
 
+[android学习路线](https://mp.weixin.qq.com/s/XREOq821aaY0gwrlwrOQJA)
+
 1. 配置博客信息[此博客](https://www.jianshu.com/p/701b1095da11)
 
 2. 博客列表
