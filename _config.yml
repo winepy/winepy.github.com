@@ -4,3 +4,5 @@ subtitle:  移动端
 description:  Android基础
 author:  李月辉
 external_link: true #在新选项卡中打开连接
+highlight: #语法高亮
+  enable: true #是否启用
