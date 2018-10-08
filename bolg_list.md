@@ -26,8 +26,76 @@
 
 ## [Android12](/android/android12.md):java 的 引用类型
 
-
+---------------------------
 # java高级
 
-## [java高级](/android_senior/android1.md)：java内存模型
+## [java高级1](/android_senior/android1.md)：java内存模型
+
+## [java高级2](/android_senior/android2.md):线程安全
+
+## [java高级3](/android_senior/android3.md)：java类的编译，加载，执行
+
+
+## [java高级4](/android_senior/android4.md)：java的GC机制
+
+-----------
+
+# 计算机网络相关
+
+## [计算机网络1](net/net1.md)：HTTP协议和HTTPS协议
+
+## [计算机网络2](net/net2.md)：http 中get和post的区别以及用java来具体实现
+
+## [计算机网络3](net/net3.md)：Socket协议，Socket实现长连接
+
+## [计算机网络4](net/net4.md)：TCP和UDP协议
+
+# Android基础
+
+
+Asset目录与res目录的区别
+
+BroadcastReceiver使用
+
+
+Application生命周期
+
+Android Activity生命周期
+
+Android Service、IntentService，Service和组件间通信
+
+Activity的onNewIntent
+
+Fragment的懒加载实现，参数传递与保存
+
+ContentProvider实例详解
+
+Android消息机制
+
+Binder机制，共享内存实现原理
+
+Android两种虚拟机
+
+主线程Looper.loop为什么不会造成死循环
+
+Android 事件分发机制
+
+Android 多线程的实现：Thread、HandlerThread、AsyncTask、IntentService、RxJava
+
+ActivityThread工作原理
+
+嵌套滑动实现原理
+
+RecyclerView与ListView(缓存原理，区别联系，优缺点)
+
+View的绘制原理，自定义View，自定义ViewGroup
+
+requestLayout，invalidate，postInvalidate区别与联系
+
+ADB常用命令
+
+ViewPager的缓存实现
+
+
+
 
