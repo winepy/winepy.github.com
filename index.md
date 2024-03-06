@@ -17,3 +17,5 @@
 
 4. [待办列表](mytodolist.md)
 
+5. [配置git](config_tool/config_git.md)
+
