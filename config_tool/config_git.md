@@ -19,7 +19,7 @@ git config --list
 ### 4. 生成公钥
 
 ```
-ssh-keygen -r rsa -C "XXXXXXXXXX@163.com"
+ssh-keygen -t rsa -C "XXXXXXXXXX@163.com"
 
 cd ~/.ssh
 
